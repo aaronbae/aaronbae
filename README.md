@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: been snowboarding for years. Reach out to me with your favorite mountain.
 
 
-## ⚡ Technologies
+## ⚡ Some Techs I Use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
