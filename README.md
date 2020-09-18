@@ -1,5 +1,3 @@
-## 👋 Hi There
-
 <!--
 **aaronbae/aaronbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👋 Hi There
+
 - 🔭 I’m currently working on HighCurve
 - 🌱 I’m currently learning to connect ml apps to express apps
 - 🤔 I’m looking for help with creating a CI deployment through docker
 - 💬 Ask me about javascript
 - 📫 How to reach me: https://twitter.com/TheAaronBae
 - ⚡ Fun fact: been snowboarding for years. Reach out to me with your favorite mountain.
+
+## :star: Some Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronbae&hide=TeX&layout=compact)
 
 
 ## ⚡ Some Techs I Use
@@ -44,6 +47,3 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-## :star: Some Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronbae&hide=TeX&layout=compact)
