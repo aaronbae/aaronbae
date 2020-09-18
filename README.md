@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HighCurve
 - 🌱 I’m currently learning to connect ml apps to express apps
-- 🤔 I’m looking for help with creating a CI deployment through docker
+- 🤔 I’m looking for help with creating a CI deployment pipeline through docker
 - 💬 Ask me about javascript
 - 📫 How to reach me: https://twitter.com/TheAaronBae
 - ⚡ Fun fact: been snowboarding for years. Reach out to me with your favorite mountain.
